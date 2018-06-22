@@ -1,0 +1,21 @@
+{
+  "name": "laminate",
+  "version": "0.1.0",
+  "homepage": "http://getlaminate.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mendoncagary/Laminate"
+  },
+  "authors": [
+    "Gary Mendonca <garymendonca36@gmail.com> (http://garymendonca.com/)"
+  ],
+  "description": "Laminate is a dead-simple, responsive boilerplate to kickstart any responsive project.",
+  "main": "css/laminate.css",
+  "keywords": [
+    "css",
+    "laminate",
+    "responsive",
+    "boilerplate"
+  ],
+  "license": "MIT"
+}
